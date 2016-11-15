@@ -1,3 +1,4 @@
+//this just for fun programing
 #include <stdio.h>
 #include <conio>
 
